@@ -1,5 +1,5 @@
 /**
- * Created by Lenovo on 28.09.2016.
+ * Created by ilbyc_000 on 28.09.2016.
  */
 public class HelloWorld {
     public static void main(String[] args) {
