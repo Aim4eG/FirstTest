@@ -1,0 +1,5 @@
+# Ignore folder logs 
+logs/
+
+# Ignore files in folder with expansion
+docs/*.txt
