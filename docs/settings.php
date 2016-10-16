@@ -1,0 +1,1 @@
+setting1 = new setting();
